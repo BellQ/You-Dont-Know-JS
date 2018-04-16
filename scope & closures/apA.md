@@ -36,7 +36,7 @@ function foo() {
 }
 
 function bar() {
-	var a = 3;
+	 a = 3;
 	foo();
 }
 
